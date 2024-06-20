@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Node",
+			"path": ".."
+		},
+		{
+			"name": "aula04-e2e-coverage",
+			"path": "../../../Downloads/aula04-e2e-coverage"
+		}
+	],
+	"settings": {}
+}
