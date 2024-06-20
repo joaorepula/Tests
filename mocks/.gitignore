@@ -1,0 +1,32 @@
+# Arquivos de build e dependências
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Arquivos de ambiente
+.env
+
+# Logs
+logs/
+*.log*
+
+# Output de testes e cobertura
+coverage/
+
+# Diretório de build
+build/
+
+# Arquivos temporários
+.tmp/
+
+# Arquivos de configuração específicos do editor
+.vscode/
+.idea/
+
+# Arquivos de histórico
+.history/
+
+# Arquivos específicos de testes (exemplos)
+test-results/
